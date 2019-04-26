@@ -1,7 +1,7 @@
-#MAGD150
+# MAGD150
 
 
-##Readme File
+## Readme File
 
 
 Within my Read me file you will find my projects completed in the MAGD150 Course at UW- Whitewater
