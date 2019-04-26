@@ -7,7 +7,7 @@
 Within my Read me file you will find my projects completed in the MAGD150 Course at UW- Whitewater
 
 
-###My Projects
+### My Projects
 
 [Project One](https://github.com/caitlinchunter/MAGD-Projects/blob/gh-pages/s19magd150lab01_Hunter/s19magd150lab01_Hunter.pde)
 
