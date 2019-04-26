@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+#MAGD150
 
-You can use the [editor on GitHub](https://github.com/caitlinchunter/MAGD-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+##Readme File
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Within my Read me file you will find my projects completed in the MAGD150 Course at UW- Whitewater
 
-### Markdown
+###My Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Project One](https://github.com/caitlinchunter/MAGD-Projects/blob/gh-pages/s19magd150lab01_Hunter/s19magd150lab01_Hunter.pde)
+[Project Two](https://github.com/caitlinchunter/MAGD-Projects/tree/gh-pages/s19magd150lab02_Hunter/s19magd150lab02_Hunter%202)
+[Project Three](https://github.com/caitlinchunter/MAGD-Projects/blob/gh-pages/s19magd150lab03_Hunter/s19magd150lab03_Hunter.pde)
+[Project Four](https://github.com/caitlinchunter/MAGD-Projects/blob/gh-pages/s19magd150lab04_Hunter/s19magd150lab04_Hunter.pde)
+[Project Five](https://github.com/caitlinchunter/MAGD-Projects/blob/gh-pages/s19magd150lab05_Hunter/s19magd150lab05_Hunter.pde) 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caitlinchunter/MAGD-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
